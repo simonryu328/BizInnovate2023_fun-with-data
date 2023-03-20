@@ -1,0 +1,4 @@
+Some helpful sources or other research we run into
+
+EfficientNet-B3 Regression : https://www.kaggle.com/code/fanconic/efficientnetb3-regression-keras/notebook
+Resnet34 Regression : https://medium.com/analytics-vidhya/fastai-image-regression-age-prediction-based-on-image-68294d34f2ed
